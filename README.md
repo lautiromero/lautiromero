@@ -2,7 +2,7 @@
 
 I’m a full-stack developer with 7 years of freelancing experience, specializing in **Node.js** and **PHP**. I’ve worked with various clients through freelance platforms and two companies, delivering high-quality code and robust solutions.
 
-While my repositories are private due to client confidentiality, you can view my professional experience and feedback on my [Upwork profile](https://www.upwork.com).
+While my repositories are private due to client confidentiality, you can view my professional experience and feedback on my [Upwork profile](https://www.upwork.com/freelancers/~0191944541ab82a50c?mp_source=share).
 
 ## 🛠️ Technologies I Work With:
 - **JavaScript**: Node.js, Express, Next.js, React
