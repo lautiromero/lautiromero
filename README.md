@@ -12,5 +12,5 @@ While my repositories are private due to client confidentiality, you can view my
 - **DevOps**: Docker, Linux, AWS
 
 ## 📫 Let's Connect:
-- **Upwork Profile**: [Upwork]([https://www.upwork.com](https://www.upwork.com/freelancers/~0191944541ab82a50c?mp_source=share)
+- **Upwork Profile**: ([https://www.upwork.com](https://www.upwork.com/freelancers/~0191944541ab82a50c?mp_source=share)
 - **Email**: lautaroromeroit@gmail.com
