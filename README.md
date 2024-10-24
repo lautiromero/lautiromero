@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm a Node.js Developer with 7 Years of Experience
 
-<!--
-**lautiromero/lautiromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with 7 years of freelancing experience, specializing in **Node.js** and **PHP**. I’ve worked with various clients through freelance platforms and two companies, delivering high-quality code and robust solutions.
 
-Here are some ideas to get you started:
+While my repositories are private due to client confidentiality, you can view my professional experience and feedback on my [Upwork profile](https://www.upwork.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Work With:
+- **JavaScript**: Node.js, Express, Next.js, React
+- **PHP**: Laravel, Livewire, Blade, Eloquent
+- **Frontend**: HTML/CSS, Bootstrap, TailwindCSS
+- **Databases**: MySQL, MongoDB
+- **DevOps**: Docker, Linux, AWS
+
+## 📫 Let's Connect:
+- **Upwork Profile**: [Upwork]([https://www.upwork.com](https://www.upwork.com/freelancers/~0191944541ab82a50c?mp_source=share)
+- **Email**: lautaroromeroit@gmail.com
