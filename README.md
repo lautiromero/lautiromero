@@ -1,4 +1,4 @@
-# Hi, I'm a Node.js Developer with 7 Years of Experience
+# Hi, I'm a Node.js Developer
 
 I’m a full-stack developer with 7 years of freelancing experience, specializing in **Node.js** and **PHP**. I’ve worked with various clients through freelance platforms and two companies, delivering high-quality code and robust solutions.
 
